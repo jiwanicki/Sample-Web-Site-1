@@ -6,7 +6,6 @@ body{
 	font-family: Arial;
 }
 
-
 #header{
 	border: 1px solid transparent;
 	width: 100%;
@@ -132,23 +131,19 @@ table-layout: fixed;
 }
 
 #main4 {
-f	ont-size: 3px;
+font-size: 3px;
 
 }
 
+/*==================== Footer Links Icons============ */
+#footerlinks {
+text-align: center;
+padding: 5px;
 
+}
 
+#footerlinks img {
+margin: 5px;
 
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
